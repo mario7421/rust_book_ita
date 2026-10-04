@@ -44,4 +44,4 @@ Once everything is set up, you can quickly check your work by launching `mdbook 
 
 In case you want to contribute your changes, you then only have to commit your improvements, create a Pull Request and wait for it to be merged.
 
-Contributions to the Italian text are welcome here, since upstream no longer accepts them. Please keep the convention already established in the repository: prose is translated, but code listings under `listings/` stay in English and their file names are left untouched.
+Contributions to the Italian text are welcome here, since upstream no longer accepts them.

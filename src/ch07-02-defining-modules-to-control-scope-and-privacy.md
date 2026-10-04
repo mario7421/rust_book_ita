@@ -72,14 +72,14 @@ La linea `pub mod giardino;` dice al compilatore di includere il codice che trov
 <span class="filename">Nome file: src/giardino.rs</span>
 
 ```rust,noplayground,ignore
-{{#rustdoc_include ../listings/ch07-managing-growing-projects/quick-reference-example/src/giardino.rs}}
+{{#rustdoc_include ../listings/ch07-managing-growing-projects/quick-reference-example/src/garden.rs}}
 ```
 
 Qui, `pub mod verdure;` significa che il codice in *src/giardino/verdure.rs* è
 incluso anche. Quel codice è:
 
 ```rust,noplayground,ignore
-{{#rustdoc_include ../listings/ch07-managing-growing-projects/quick-reference-example/src/giardino/verdure.rs}}
+{{#rustdoc_include ../listings/ch07-managing-growing-projects/quick-reference-example/src/garden/vegetables.rs}}
 ```
 
 Ora entreremo nei dettagli di queste regole e li mostreremo in azione!

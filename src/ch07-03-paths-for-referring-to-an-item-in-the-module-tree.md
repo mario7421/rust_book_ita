@@ -147,7 +147,7 @@ funzione `deliver_order` definita nel modulo genitore specificando il percorso a
 <span class="filename">Nome del file: src/lib.rs</span>
 
 ```rust,noplayground,test_harness
-{{#rustdoc_include ../listings/ch07-managing-growing-projects/listing-07-08/src/lib.rs})}
+{{#rustdoc_include ../listings/ch07-managing-growing-projects/listing-07-08/src/lib.rs}}
 ```
 
 <span class="caption">Listing 7-8: Chiama una funzione utilizzando un percorso relativo
